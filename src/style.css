@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+h1 {
+    margin: 10px auto;
+}
+
+.slider {
+    width: 40%;
+    cursor: pointer;
+}
+
+.piechart {
+    margin: 10px auto;
+    height: 400px;
+    width: 400px;
+    background-image: conic-gradient(blue var(--percentage), skyblue 0);
+    border-radius: 50%;
+}
