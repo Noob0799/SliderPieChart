@@ -1,5 +1,5 @@
 # Slider Pie Chart
-A webapp developed using HTML-CSS-JS to showcase the percentage of a Range Slider using Pie Chart
+A webapp developed using HTML-CSS-JS to showcase the percentage of a Range Slider using Pie Chart  
 Live webapp link: https://noob0799.github.io/SliderPieChart/
 
 ## Features:
